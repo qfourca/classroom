@@ -1,18 +1,56 @@
+import GoogleLogin from 'react-google-login'
 import * as S from './index.style'
-import image from './www.png'
+import oAuth from '../../store/oAuth' // atom으로 만든 전역상태
+import {useRecoilState} from 'recoil' // 훅 import
+import config from '../../../config.json'
+import { useEffect, useState } from 'react'
+import axios from 'axios'
+
 const Render = () => {
-    const items = ['턱걸이', '딥스', '팔굽혀펴기', '윗몸일으키기', '맨몸 스쿼트', '버피', '플랭크', '브릿지', '마운틴 클라이머', '바이시클 메뉴버', '트릭킹']
+    const [getOAuth, setOAuth] = useRecoilState(oAuth); // 전역상태를 state로 만듦
+    const [getClassrooms, setClassrooms] = useState([])
+    // useEffect(() => {
+    //     if(getOAuth != undefined) {
+    //         console.log(getOAuth)
+    //         axios.get(`https://classroom.googleapis.com/v1/courses?key=${''}`,
+    //         {headers: {
+    //             Authorization: 'Bearer ' + getOAuth.accessToken,
+    //             Accept: 'application/json'
+    //         }})
+    //         .then((result) => {
+    //             console.log(result)
+    //         })
+    //     }
+    // }, [getOAuth])
+    const success = (result) => {
+        setOAuth(result)
+    }
+    const fail = (error) => {
+        console.log(error)
+    }
     return (
-        <S.Main>
-            {/* <img src={image} width='200'></img> */}
-            <S.MainContent></S.MainContent>
-            <S.MyRecord></S.MyRecord>
-            <S.TrainingList>
-                {
-                    items.map(item => (<S.TestBox><span>{item}</span></S.TestBox>))
-                }
-            </S.TrainingList>
-        </S.Main>
+        <>
+            {
+                getOAuth == undefined? 
+                (
+                    <div>
+                        <GoogleLogin
+                            key={config.key}
+                            clientId={config.clientId}
+                            onSuccess={success}
+                            onFailure={fail}/>
+                    </div>
+                ):
+                <>
+                    {
+                        getClassrooms.map(element => {
+                            console.log(element)
+                            return <div></div>
+                        })
+                    }
+                </>
+            }
+        </>
     )
 }
 export default Render

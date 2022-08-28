@@ -1,0 +1,606 @@
+{
+    "courses": [
+      {
+        "id": "539556465035",
+        "name": "스프링프레임워크 2022 2학기",
+        "descriptionHeading": "스프링프레임워크 2022 2학기",
+        "ownerId": "102807899424180415977",
+        "creationTime": "2022-08-24T02:18:06.642Z",
+        "updateTime": "2022-08-24T04:21:52.066Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/NTM5NTU2NDY1MDM1",
+        "teacherGroupEmail": "2022_2_teachers_561ad25a@dgsw.hs.kr",
+        "courseGroupEmail": "2022_2_8be4f53d@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom604a1691@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "539405575572",
+        "name": "2022 2학기 웹프로그래밍(2-1)",
+        "section": "2022 2학기 웹프로그래밍(2-1)",
+        "descriptionHeading": "2022 2학기 웹프로그래밍(2-1) 2022 2학기 웹프로그래밍(2-1)",
+        "room": "2022 2학기 웹프로그래밍(2-1)",
+        "ownerId": "112234061502743875619",
+        "creationTime": "2022-08-23T00:26:25.324Z",
+        "updateTime": "2022-08-23T00:26:25.324Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/NTM5NDA1NTc1NTcy",
+        "teacherGroupEmail": "2022_2_2_1_2022_2_2_1_teachers_e35b6485@dgsw.hs.kr",
+        "courseGroupEmail": "2022_2_2_1_2022_2_2_1_0bd4646c@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom8cee0def@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "539262195862",
+        "name": "2-1 프로젝트 실습",
+        "section": "2-1 프로젝트 실습",
+        "descriptionHeading": "2-1 프로젝트 실습 2-1 프로젝트 실습",
+        "room": "2-1 프로젝트 실습",
+        "ownerId": "117276000649413140047",
+        "creationTime": "2022-08-22T01:42:08.643Z",
+        "updateTime": "2022-08-22T01:42:08.643Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/NTM5MjYyMTk1ODYy",
+        "teacherGroupEmail": "2_1_2_1_teachers_14ec4f78@dgsw.hs.kr",
+        "courseGroupEmail": "2_1_2_1_0de684f1@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroombcdb99f1@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "537031330447",
+        "name": "2022 교내 SW 해커톤",
+        "descriptionHeading": "2022 교내 SW 해커톤",
+        "ownerId": "115878327434885763642",
+        "creationTime": "2022-07-18T06:43:46.013Z",
+        "updateTime": "2022-07-18T06:43:46.013Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/NTM3MDMxMzMwNDQ3",
+        "teacherGroupEmail": "2022_SW_teachers_93697f6c@dgsw.hs.kr",
+        "courseGroupEmail": "2022_SW_f484fe27@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classrooma344adab@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "521412664722",
+        "name": "2022 한국사(2-1)",
+        "descriptionHeading": "2022 한국사(2-1)",
+        "room": "2-1",
+        "ownerId": "105403450552963036337",
+        "creationTime": "2022-05-24T01:36:45.512Z",
+        "updateTime": "2022-05-24T01:36:45.512Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/NTIxNDEyNjY0NzIy",
+        "teacherGroupEmail": "2022_2_1_teachers_0de0bf91@dgsw.hs.kr",
+        "courseGroupEmail": "2022_2_1_c721b797@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroomc9a0e786@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "362605137636",
+        "name": "2-1 국어",
+        "descriptionHeading": "2-1 국어",
+        "ownerId": "104140523831587566321",
+        "creationTime": "2022-05-23T02:51:27.001Z",
+        "updateTime": "2022-05-23T02:51:27.001Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/MzYyNjA1MTM3NjM2",
+        "teacherGroupEmail": "2_1_teachers_acae17e4@dgsw.hs.kr",
+        "courseGroupEmail": "2_1_1396a548@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom4426f128@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "477769416580",
+        "name": "소프트웨어공학(2-1)",
+        "descriptionHeading": "2022 소프트웨어공학(2-1)",
+        "ownerId": "117352367242627558874",
+        "creationTime": "2022-03-02T08:02:17.363Z",
+        "updateTime": "2022-03-02T08:03:20.862Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/NDc3NzY5NDE2NTgw",
+        "teacherGroupEmail": "2022_2_1_teachers_b096d448@dgsw.hs.kr",
+        "courseGroupEmail": "2022_2_1_63d2934f@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom0f56a20b@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "505299195853",
+        "name": "네트워크 프로그래밍",
+        "section": "2-1 네트워크 프로그래밍",
+        "descriptionHeading": "네트워크 프로그래밍 2-1 네트워크 프로그래밍",
+        "ownerId": "117276000649413140047",
+        "creationTime": "2022-04-18T01:03:33.528Z",
+        "updateTime": "2022-08-22T01:41:50.411Z",
+        "courseState": "ARCHIVED",
+        "alternateLink": "https://classroom.google.com/c/NTA1Mjk5MTk1ODUz",
+        "teacherGroupEmail": "2_1_teachers_0f39edf8@dgsw.hs.kr",
+        "courseGroupEmail": "2_1_b7f964dc@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom4b668b23@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "499372962009",
+        "name": "2-1 응용 SW 기초 기술 활용",
+        "descriptionHeading": "2-3 응용 SW 기초 기술 활용",
+        "ownerId": "101208191432706398343",
+        "creationTime": "2022-04-08T00:06:05.389Z",
+        "updateTime": "2022-08-23T02:14:45.464Z",
+        "courseState": "ARCHIVED",
+        "alternateLink": "https://classroom.google.com/c/NDk5MzcyOTYyMDA5",
+        "teacherGroupEmail": "2_3_SW_teachers_a7d65df9@dgsw.hs.kr",
+        "courseGroupEmail": "2_3_SW_d2da3e74@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroomef12b339@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "478491989911",
+        "name": "2022 2학년 1반 음악",
+        "descriptionHeading": "2022 2학년 1반 음악",
+        "ownerId": "108482419315837045804",
+        "creationTime": "2022-03-06T23:56:23.899Z",
+        "updateTime": "2022-03-06T23:56:23.898Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/NDc4NDkxOTg5OTEx",
+        "teacherGroupEmail": "2022_2_1_teachers_fff0021f@dgsw.hs.kr",
+        "courseGroupEmail": "2022_2_1_07b51f6c@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom4d444aef@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "353283370581",
+        "name": "2022 Java 2-1",
+        "descriptionHeading": "2022 Java 2-1",
+        "ownerId": "102807899424180415977",
+        "creationTime": "2022-03-16T01:15:06.957Z",
+        "updateTime": "2022-08-23T00:24:22.474Z",
+        "courseState": "ARCHIVED",
+        "alternateLink": "https://classroom.google.com/c/MzUzMjgzMzcwNTgx",
+        "teacherGroupEmail": "2022_Java_2_1_teachers_cb50552d@dgsw.hs.kr",
+        "courseGroupEmail": "2022_Java_2_1_a576f66c@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "476370238464",
+        "name": "2022대소고2-1(교과-권헌춘)",
+        "section": "2022대소고2-1(교과수업)",
+        "descriptionHeading": "2022대소고2-1(교과수업) 2022대소고2-1(교과수업)",
+        "room": "2022대소고2-1(교과수업)",
+        "ownerId": "112234061502743875619",
+        "creationTime": "2022-03-10T00:40:28.759Z",
+        "updateTime": "2022-08-23T00:24:09.150Z",
+        "courseState": "ARCHIVED",
+        "alternateLink": "https://classroom.google.com/c/NDc2MzcwMjM4NDY0",
+        "teacherGroupEmail": "2022_2_1_2022_2_1_teachers_e1543f37@dgsw.hs.kr",
+        "courseGroupEmail": "2022_2_1_2022_2_1_c592acdc@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom0db6d9de@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "475821619342",
+        "name": "2-1자가격리자원격수업",
+        "section": "2-1자가격리자원격수업",
+        "descriptionHeading": "2-1자가격리자원격수업 2-1자가격리자원격수업",
+        "ownerId": "110756144706743511294",
+        "creationTime": "2022-03-06T23:35:39.532Z",
+        "updateTime": "2022-03-31T23:17:50.660Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/NDc1ODIxNjE5MzQy",
+        "teacherGroupEmail": "2_1_2_1_teachers_829ce94a@dgsw.hs.kr",
+        "courseGroupEmail": "2_1_2_1_db8383d7@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom84b3a5ab@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "228250708017",
+        "name": "[수학1] 2022. 2학년 1반",
+        "descriptionHeading": "[수학1] 2022. 2학년 1반",
+        "ownerId": "114485693485306487009",
+        "creationTime": "2022-03-07T04:29:15.044Z",
+        "updateTime": "2022-03-07T04:29:15.044Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/MjI4MjUwNzA4MDE3",
+        "teacherGroupEmail": "1_2022_2_1_teachers_b526d71e@dgsw.hs.kr",
+        "courseGroupEmail": "1_2022_2_1_210ff994@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom65295b95@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "227830567129",
+        "name": "2022 대소고 2-1",
+        "section": "2022 대소고 2-1",
+        "descriptionHeading": "2022 대소고 2-1 2022 대소고 2-1",
+        "room": "2022 대소고 2-1",
+        "ownerId": "112234061502743875619",
+        "creationTime": "2022-02-24T00:12:15.084Z",
+        "updateTime": "2022-08-23T00:24:05.027Z",
+        "courseState": "ARCHIVED",
+        "alternateLink": "https://classroom.google.com/c/MjI3ODMwNTY3MTI5",
+        "teacherGroupEmail": "2022_2_1_2022_2_1_teachers_170d3be4@dgsw.hs.kr",
+        "courseGroupEmail": "2022_2_1_2022_2_1_2b750067@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom155f6dd6@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "450251863717",
+        "name": "2022 신입생(7기) 비포스쿨",
+        "descriptionHeading": "2022 신입생(7기) 비포스쿨",
+        "ownerId": "112146509238577794787",
+        "creationTime": "2021-12-28T06:36:42.426Z",
+        "updateTime": "2021-12-28T06:36:42.425Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/NDUwMjUxODYzNzE3",
+        "teacherGroupEmail": "2022_7_teachers_43b407e2@dgsw.hs.kr",
+        "courseGroupEmail": "2022_7_abb6e94d@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom2d9a84bc@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "387642830024",
+        "name": "C언어가 씨블씨블",
+        "section": "야 너두 C언어 고수가 될 수 있어",
+        "descriptionHeading": "C언어가 씨블씨블 야 너두 C언어 고수가 될 수 있어",
+        "room": "1-1",
+        "ownerId": "115878327434885763642",
+        "creationTime": "2021-09-01T07:40:41.569Z",
+        "updateTime": "2021-09-01T07:40:41.569Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/Mzg3NjQyODMwMDI0",
+        "teacherGroupEmail": "C_C_teachers_0bbeb742@dgsw.hs.kr",
+        "courseGroupEmail": "C_C_b9f65800@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom178d98f5@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "382043173879",
+        "name": "2021 1-2 DB",
+        "descriptionHeading": "2021 1-2 DB",
+        "ownerId": "101208191432706398343",
+        "creationTime": "2021-08-25T02:19:52.014Z",
+        "updateTime": "2022-05-30T06:11:46.839Z",
+        "courseState": "ARCHIVED",
+        "alternateLink": "https://classroom.google.com/c/MzgyMDQzMTczODc5",
+        "teacherGroupEmail": "2021_1_2_DB_teachers_e4d23d4b@dgsw.hs.kr",
+        "courseGroupEmail": "2021_1_2_DB_e9df1c45@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroomfca72895@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "378948258082",
+        "name": "1-2컴퓨터 구조",
+        "section": "2021학년도 1학년 2학기",
+        "descriptionHeading": "1-2컴퓨터 구조 2021학년도 1학년 2학기",
+        "room": "1학년 2반",
+        "ownerId": "112146509238577794787",
+        "creationTime": "2021-08-18T23:39:48.389Z",
+        "updateTime": "2021-08-18T23:39:48.389Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/Mzc4OTQ4MjU4MDgy",
+        "teacherGroupEmail": "1_2_2021_1_2_teachers_3a944a0b@dgsw.hs.kr",
+        "courseGroupEmail": "1_2_2021_1_2_f7c1ca4b@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classrooma2e66db7@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "171358125519",
+        "name": "자료구조",
+        "section": "대구소프트웨어마이스터고등학교",
+        "descriptionHeading": "자료구조 대구소프트웨어고등학교",
+        "description": "1학년 자료구조와 알고리즘 교실입니다.",
+        "room": "윈도우실",
+        "ownerId": "109552898484383835319",
+        "creationTime": "2020-09-23T01:06:04.451Z",
+        "updateTime": "2021-08-18T02:37:34.743Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/MTcxMzU4MTI1NTE5",
+        "teacherGroupEmail": "teachers_880e01a1@dgsw.hs.kr",
+        "courseGroupEmail": "c07e6a34@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroombab26a5c@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE",
+          "gradeCategories": [
+            {
+              "id": "183899148495",
+              "name": "수행평가",
+              "defaultGradeDenominator": 30
+            }
+          ]
+        }
+      },
+      {
+        "id": "318539958374",
+        "name": "통합사회1-2(2021)",
+        "descriptionHeading": "통합사회1-2(2021)",
+        "ownerId": "105403450552963036337",
+        "creationTime": "2021-04-21T00:29:31.296Z",
+        "updateTime": "2022-05-24T01:36:03.938Z",
+        "courseState": "ARCHIVED",
+        "alternateLink": "https://classroom.google.com/c/MzE4NTM5OTU4Mzc0",
+        "teacherGroupEmail": "1_2_2021_teachers_c162a9ab@dgsw.hs.kr",
+        "courseGroupEmail": "1_2_2021_49761a33@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom9affb672@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "329256386700",
+        "name": "엑셀 초급(컴퓨터활용능력 특강)",
+        "descriptionHeading": "엑셀 초급(컴퓨터활용능력 특강)",
+        "ownerId": "116336972962838028681",
+        "creationTime": "2021-04-30T16:51:13.022Z",
+        "updateTime": "2021-04-30T16:51:12.139Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/MzI5MjU2Mzg2NzAw",
+        "teacherGroupEmail": "teachers_5951b1e4@dgsw.hs.kr",
+        "courseGroupEmail": "a1ec2241@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroome5bcb085@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "311527599316",
+        "name": "알고리즘과 코딩테스트",
+        "section": "대구소프트웨어마이스터고등학교",
+        "descriptionHeading": "알고리즘과 코딩테스트 대구소프트웨어마이스터고등학교",
+        "room": "윈도",
+        "ownerId": "109552898484383835319",
+        "creationTime": "2021-03-31T05:33:26.741Z",
+        "updateTime": "2021-03-31T05:33:25.297Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/MzExNTI3NTk5MzE2",
+        "teacherGroupEmail": "teachers_b55597a0@dgsw.hs.kr",
+        "courseGroupEmail": "89b2d10d@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom0b3a2791@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "294933812182",
+        "name": "진로 2021 1학년",
+        "section": "진로 2021 1학년",
+        "descriptionHeading": "진로 2021 1학년 진로 2021 1학년",
+        "ownerId": "101960605109064277499",
+        "creationTime": "2021-03-10T05:26:25.096Z",
+        "updateTime": "2021-03-10T05:26:24.180Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/Mjk0OTMzODEyMTgy",
+        "teacherGroupEmail": "2021_1_2021_1_teachers_5b4ab583@dgsw.hs.kr",
+        "courseGroupEmail": "2021_1_2021_1_ce10c483@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroomb35b26a8@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "307930693382",
+        "name": "1학년 영어",
+        "descriptionHeading": "1학년 영어",
+        "ownerId": "112381342797504786081",
+        "creationTime": "2021-03-26T04:15:32.692Z",
+        "updateTime": "2021-09-21T15:12:28.715Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/MzA3OTMwNjkzMzgy",
+        "teacherGroupEmail": "1_teachers_2b5da3ca@dgsw.hs.kr",
+        "courseGroupEmail": "1_f80f3d98@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroomabc91534@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "SHOW_OVERALL_GRADE",
+          "gradeCategories": [
+            {
+              "id": "380824762603",
+              "name": "1학기",
+              "defaultGradeDenominator": 100
+            },
+            {
+              "id": "380824762621",
+              "name": "2학기",
+              "defaultGradeDenominator": 100
+            }
+          ]
+        }
+      },
+      {
+        "id": "308885534663",
+        "name": "1-2 컴퓨터시스템일반(송준호)",
+        "descriptionHeading": "1-2 컴퓨터시스템일반(송준호)",
+        "ownerId": "101208191432706398343",
+        "creationTime": "2021-03-29T02:11:55.135Z",
+        "updateTime": "2022-05-30T06:11:53.688Z",
+        "courseState": "ARCHIVED",
+        "alternateLink": "https://classroom.google.com/c/MzA4ODg1NTM0NjYz",
+        "teacherGroupEmail": "1_2_teachers_4e7c5152@dgsw.hs.kr",
+        "courseGroupEmail": "1_2_12f92eec@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom0e8ff870@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "303762328866",
+        "name": "[수학] 2021. 1학년 2반",
+        "descriptionHeading": "2021. 1학년 1반",
+        "ownerId": "114485693485306487009",
+        "creationTime": "2021-03-25T00:55:39.332Z",
+        "updateTime": "2022-03-03T03:02:03.924Z",
+        "courseState": "ARCHIVED",
+        "alternateLink": "https://classroom.google.com/c/MzAzNzYyMzI4ODY2",
+        "teacherGroupEmail": "2021_1_2_teachers_3cbd06e8@dgsw.hs.kr",
+        "courseGroupEmail": "2021_1_2_72b20366@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroombe07d731@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "276336191373",
+        "name": "2021학년도 1-2 국어과제방",
+        "descriptionHeading": "2021학년도 1-2 국어과제방",
+        "ownerId": "117779077550596117784",
+        "creationTime": "2021-02-19T04:58:39.769Z",
+        "updateTime": "2021-02-19T04:58:38.574Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/Mjc2MzM2MTkxMzcz",
+        "teacherGroupEmail": "2021_1_2_teachers_be7fd194@dgsw.hs.kr",
+        "courseGroupEmail": "2021_1_2_8b363c82@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroomb217913d@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "291449409129",
+        "name": "통합과학(1학년 2반)",
+        "section": "2021학년도",
+        "descriptionHeading": "통합과학(1학년 2반) 2021학년도",
+        "room": "1학년 2반",
+        "ownerId": "101566557245064949175",
+        "creationTime": "2021-03-02T08:33:43.561Z",
+        "updateTime": "2021-03-02T08:33:42.543Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/MjkxNDQ5NDA5MTI5",
+        "teacherGroupEmail": "1_2_2021_teachers_a2a191cf@dgsw.hs.kr",
+        "courseGroupEmail": "1_2_2021_660accf8@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom4d15e38d@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "282542892430",
+        "name": "2021 C프로그래밍(전체)",
+        "section": "대구소프트웨어마이스터고등학교 C언어 프로그래밍",
+        "descriptionHeading": "C언어 프로그래밍 대구소프트웨어마이스터고등학교 C언어 프로그래밍",
+        "room": "윈도실",
+        "ownerId": "109552898484383835319",
+        "creationTime": "2021-02-24T08:01:49.500Z",
+        "updateTime": "2022-06-07T00:21:08.882Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/MjgyNTQyODkyNDMw",
+        "teacherGroupEmail": "C_C_teachers_ce157fda@dgsw.hs.kr",
+        "courseGroupEmail": "C_C_38ddd8cf@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroom8c99627b@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      },
+      {
+        "id": "230959677098",
+        "name": "2021 비포스쿨",
+        "descriptionHeading": "2021 비포스쿨",
+        "ownerId": "110658927374272190892",
+        "creationTime": "2020-11-17T05:08:30.828Z",
+        "updateTime": "2020-12-17T09:47:37.701Z",
+        "courseState": "ACTIVE",
+        "alternateLink": "https://classroom.google.com/c/MjMwOTU5Njc3MDk4",
+        "teacherGroupEmail": "2021_teachers_1f628ea3@dgsw.hs.kr",
+        "courseGroupEmail": "2021_b291ebaa@dgsw.hs.kr",
+        "guardiansEnabled": false,
+        "calendarId": "c_classroomd8f0c148@group.calendar.google.com",
+        "gradebookSettings": {
+          "calculationType": "TOTAL_POINTS",
+          "displaySetting": "HIDE_OVERALL_GRADE"
+        }
+      }
+    ]
+  }
+  
